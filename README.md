@@ -41,8 +41,8 @@ O objetivo é demonstrar a criação de uma infraestrutura mínima na OCI capaz 
 
 ---
 
-### 2. Configuração da Subnet
-![Subnet OCI]()  
+### 2) Configuração da Subnet
+[![Subnet OCI](screenshots/oci-subnet.jpg)](screenshots/oci-subnet.jpg)
 *Subnet pública criada (CIDR 10.0.0.0/24) com roteamento para Internet Gateway.*
 
 ---
