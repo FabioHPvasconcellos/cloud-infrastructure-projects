@@ -27,7 +27,7 @@ O objetivo é demonstrar a criação de uma infraestrutura mínima na OCI capaz 
 
 ## 📜 Arquitetura
 
-![Arquitetura da rede]()
+![Arquitetura da rede](diagrama.png)
 
 *VCN com Subnet pública, Security List e Internet Gateway configurados.*
 
