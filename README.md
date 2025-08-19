@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Objetivo do Projeto
+##   Objetivo do Projeto
 **O objetivo é demonstrar a criação de uma infraestrutura mínima na Oracle Cloud Infrastructure (OCI), capaz de hospedar uma máquina virtual acessível via SSH e com acesso à internet. Além disso, o projeto busca:**
 
 - Explorar conceitos básicos de rede em nuvem, como VCN, sub-redes, gateways e regras de segurança.
@@ -22,7 +22,7 @@
 - Servir como material de estudo/portfólio, validando conhecimentos práticos em cloud computing e infraestrutura como serviço (IaaS)
 ---
 
-## 🛠️ Recursos Utilizados
+##   Recursos Utilizados
 - **Oracle Cloud Infrastructure (OCI) Free Tier**
 - **Compute (VM.Standard.E2.1.Micro)**
 - **VCN (Virtual Cloud Network)**
@@ -32,7 +32,7 @@
 
 ---
 
-## 📜 Arquitetura
+##   Arquitetura
 
 [![Arquitetura da rede](screenshots/diagrama.png)](screenshots/diagrama.png)
 *VCN com Subnet pública, Security List e Internet Gateway configurados.*
