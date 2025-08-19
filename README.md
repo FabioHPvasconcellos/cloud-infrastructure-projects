@@ -28,7 +28,6 @@ O objetivo é demonstrar a criação de uma infraestrutura mínima na OCI capaz 
 ## 📜 Arquitetura
 
 [![Arquitetura da rede](screenshots/diagrama.png)](screenshots/diagrama.png)
-[![SSH e Ping](screenshots/terminal.png)](screenshots/terminal.png)
 *VCN com Subnet pública, Security List e Internet Gateway configurados.*
 
 ---
@@ -44,6 +43,10 @@ O objetivo é demonstrar a criação de uma infraestrutura mínima na OCI capaz 
 ### 2) Configuração da Subnet
 [![Subnet OCI](screenshots/oci-subnet.jpg)](screenshots/oci-subnet.jpg)
 *Subnet pública criada (CIDR 10.0.0.0/24) com roteamento para Internet Gateway.*
+
+### 3) Instância em execução (Resource Summary)
+[![Instância OCI](screenshots/oci-instance.jpg)](screenshots/oci-instance.jpg)
+*Instância criada e em execução.*
 
 ---
 
