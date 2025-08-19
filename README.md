@@ -1,6 +1,6 @@
 # Provisionamento de Instância Compute com VCN e Subnet na Oracle Cloud (OCI)
 
-Este projeto demonstra o provisionamento de uma **instância de computação (VM)** em uma rede virtual (VCN) na **Oracle Cloud Infrastructure (OCI)**, incluindo:
+** Este projeto demonstra o provisionamento de uma **instância de computação (VM)** em uma rede virtual (VCN) na **Oracle Cloud Infrastructure (OCI)**, incluindo: **
 - Criação de VCN
 - Configuração de Subnet pública
 - Associação de Internet Gateway
