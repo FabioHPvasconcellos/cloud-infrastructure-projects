@@ -45,7 +45,7 @@ O objetivo é demonstrar a criação de uma infraestrutura mínima na OCI capaz 
 *Subnet pública criada (CIDR 10.0.0.0/24) com roteamento para Internet Gateway.*
 
 ### 3) Instância em execução (Resource Summary)
-[![Instância OCI](screenshots/oci-instance.jpg)](screenshots/oci-instance.jpg)
+[![Instância OCI](screenshots/oci-instance.png)](screenshots/oci-instance.png)
 *Instância criada e em execução.*
 
 ---
