@@ -35,8 +35,8 @@ O objetivo é demonstrar a criação de uma infraestrutura mínima na OCI capaz 
 
 ## 📷 Evidências do Ambiente
 
-### 1. Conexão via SSH e Teste de Conectividade
-![SSH e Ping]()  
+### 1) Conexão via SSH e ping
+[![SSH e Ping](screenshots/terminal.png)](screenshots/terminal.png)
 *Conexão via SSH utilizando chave privada e teste de conectividade (ping para Google).*
 
 ---
