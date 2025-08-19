@@ -11,8 +11,15 @@ Este projeto demonstra o provisionamento de uma **instância de computação (VM
 ---
 
 ## 🚀 Objetivo do Projeto
-O objetivo é demonstrar a criação de uma infraestrutura mínima na OCI capaz de hospedar uma VM acessível via SSH e com acesso à internet.
+**O objetivo é demonstrar a criação de uma infraestrutura mínima na Oracle Cloud Infrastructure (OCI), capaz de hospedar uma máquina virtual acessível via SSH e com acesso à internet. Além disso, o projeto busca:**
 
+- **Explorar conceitos básicos de rede em nuvem, como VCN, sub-redes, gateways e regras de segurança.**
+
+- **Garantir conectividade segura, utilizando pares de chaves SSH para acesso remoto.**
+
+- **Configurar regras de firewall (Security Lists/NSG) para restringir e controlar o tráfego de entrada e saída.**
+
+- **Servir como material de estudo/portfólio, validando conhecimentos práticos em cloud computing e infraestrutura como serviço (IaaS)**
 ---
 
 ## 🛠️ Recursos Utilizados
