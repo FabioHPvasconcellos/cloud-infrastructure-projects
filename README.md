@@ -59,4 +59,4 @@ O objetivo é demonstrar a criação de uma infraestrutura mínima na OCI capaz 
 5. Criar **Instância Compute** (VM.Standard.E2.1.Micro)
 6. Conectar via SSH:
    ```bash
-   ssh -i chave.pem opc@<IP_PÚBLICO_DA_VM>
+   ssh -i demokey opc@<IP_PÚBLICO_DA_VM>
